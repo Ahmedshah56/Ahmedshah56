@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=AHMED%20SHAH&fontSize=58&fontAlignY=36&desc=FULL-STACK%20DEVELOPER%20%28MERN%29&descSize=17&descAlignY=58&animation=fadeIn" alt="Animated wave header" width="100%" />
 
-<img src="banner.png" alt="Ahmed Shah — Full-Stack Developer (MERN)" width="100%" />
-
 <a href="https://github.com/Ahmedshah56">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7C948&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+%28MERN%29;React+%E2%80%A2+Node+%E2%80%A2+Express+%E2%80%A2+MongoDB;Open+Source+Contributor;Shipping+real+products%2C+not+tutorials" alt="Typing animation" />
 </a>
@@ -78,18 +76,6 @@ I build full-stack web applications with the MERN stack. My work centers on REST
 
 ---
 
-### Contribution Activity
-
-<div align="center">
-
-<img src="banner-anim.gif" alt="Golden particle animation" width="100%" />
-
-<img src="https://raw.githubusercontent.com/Ahmedshah56/Ahmedshah56/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
-
-</div>
-
----
-
 ### Achievement Roadmap
 
 Badges are earned by actions, not words. Here is exactly what each one takes and where I stand:
@@ -97,8 +83,8 @@ Badges are earned by actions, not words. Here is exactly what each one takes and
 | Badge | How it is earned | My plan |
 |---|---|---|
 | Pull Shark | 2 merged PRs (then 16, 128, 1024) | Open source PRs in progress |
-| Quickdraw | Close an issue or PR within 5 minutes of opening | Done in my own repo |
-| YOLO | Merge a PR with no review | Done in my own repo |
+| Quickdraw | Close an issue or PR within 5 minutes of opening | Earned ✓ |
+| YOLO | Merge a PR with no review | Earned ✓ |
 | Pair Extraordinaire | Co-authored commits on a merged PR (1, then 10, 24, 48) | Pairing with a fellow dev |
 | Galaxy Brain | 2 accepted answers in Discussions (then 8, 16, 32) | Answering in project discussions |
 | Starstruck | 16 stars on one repository (then 128, 512, 4096) | Shipping projects worth starring |
@@ -114,3 +100,5 @@ Badges are earned by actions, not words. Here is exactly what each one takes and
 [![Portfolio](https://img.shields.io/badge/Portfolio-F7C948?style=for-the-badge&logo=googlechrome&logoColor=1a1d21)](https://ahmedshah-portfolio.netlify.app/)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
