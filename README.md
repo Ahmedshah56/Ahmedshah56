@@ -18,7 +18,7 @@ I build full-stack web applications with the MERN stack. My work centers on REST
 
 - BSCS undergraduate turning side projects into production grade apps
 - Currently contributing to open source and growing toward a professional developer role
-- Open to junior developer roles, internships, and freelance projects
+- Open to developer roles, internships, and freelance projects
 
 ---
 
