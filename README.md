@@ -97,7 +97,6 @@ Badges are earned by actions, not words. Here is exactly what each one takes and
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-shah-web-developer-designer/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-F7C948?style=for-the-badge&logo=googlechrome&logoColor=1a1d21)](https://ahmedshah-portfolio.netlify.app/)
 
 </div>
 
