@@ -13,3 +13,9 @@ A public record of what I actually build and ship, one day at a time.
 - Updated my CV with EduCore, Lazeez POS Pro and Listing Audit Tool topping Featured Projects, and cleaned LinkedIn to hold only the new CV
 - Applied to four developer roles on LinkedIn with the new CV: Estimation Inc, Fomi, Agento and Raa
 - Closed the Pennsylvania cold-outreach batch, sending the final five approved emails to reach 22 for the batch
+
+## 2026-10-26
+- Built and launched SehatPOS, a pharmacy POS with FEFO earliest-expiry billing, an expiry radar and printable receipts, live on Vercel
+- Submitted the Nestle Pakistan Apprenticeship Program 2026 application for the Port Qasim Factory, Karachi
+- Applied to 14 more developer roles on LinkedIn, closing the day at 18 applications
+- Delivered three Daily Joys short films: The Tiny Boss, Flying Bicycle Part 1 and the Bike Mountain Jump reel
