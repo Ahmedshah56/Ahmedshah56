@@ -25,3 +25,9 @@ A public record of what I actually build and ship, one day at a time.
 - Monetized the Listing Audit Tool with Adsterra (728x90 and 300x250 ads live) and shipped its SEO overhaul with 5 seller guides, Search Console verified and sitemap submitted
 - Published the Listing Audit Tool launch post on LinkedIn and posted 10 new professional comments
 - Sent the approved Koba Cafe cold email, taking the outreach campaign to 96 sent
+
+## 2026-10-28
+- Launched PhotoKit live on Netlify, added it as the first card on the portfolio, and published its LinkedIn launch post
+- Shipped PhotoKit v2: in-browser background remover, passport suit changer and auto-framing, corrected country presets including Pakistan 35x45mm, and an improved enhancer, all live-verified
+- Added four more Adsterra ad units to PhotoKit and the Listing Audit Tool and fixed the Audit Tool home leaderboard ad key
+- Posted two rounds of 10 LinkedIn comments (foreigners-only and professional) and sent 7 Dubai HR connection invites
