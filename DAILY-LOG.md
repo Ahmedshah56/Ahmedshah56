@@ -31,3 +31,8 @@ A public record of what I actually build and ship, one day at a time.
 - Shipped PhotoKit v2: in-browser background remover, passport suit changer and auto-framing, corrected country presets including Pakistan 35x45mm, and an improved enhancer, all live-verified
 - Added four more Adsterra ad units to PhotoKit and the Listing Audit Tool and fixed the Audit Tool home leaderboard ad key
 - Posted two rounds of 10 LinkedIn comments (foreigners-only and professional) and sent 7 Dubai HR connection invites
+## 2026-10-29
+- Shipped PhotoKit fixes live: a faster passport flow with no model prefetch, a blank-preview guard, and the wardrobe expanded from 8 to 24 outfits
+- Fixed the Listing Audit Tool rejecting valid Amazon short links, and shipped empty-ad-slot collapsing plus a new 160x300 article banner on both sites
+- Removed Native ad units from PhotoKit and the Listing Audit Tool after confirming Adsterra's adult-ads switch was already off on both sites
+- Sent 8 USA recruiter connection invites and 10 USA-only LinkedIn comments, plus helpful comments in Amazon seller groups
