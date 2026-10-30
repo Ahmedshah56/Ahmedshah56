@@ -34,5 +34,11 @@ A public record of what I actually build and ship, one day at a time.
 ## 2026-10-29
 - Shipped PhotoKit fixes live: a faster passport flow with no model prefetch, a blank-preview guard, and the wardrobe expanded from 8 to 24 outfits
 - Fixed the Listing Audit Tool rejecting valid Amazon short links, and shipped empty-ad-slot collapsing plus a new 160x300 article banner on both sites
-- Removed Native ad units from PhotoKit and the Listing Audit Tool after confirming Adsterra's adult-ads switch was already off on both sites
+- Removed Native ad units from PhotoKit and the Listing Audit Tool after confirming the Adsterra adult-ads switch was already off on both sites
 - Sent 8 USA recruiter connection invites and 10 USA-only LinkedIn comments, plus helpful comments in Amazon seller groups
+
+## 2026-10-30
+- Shipped the PhotoKit wardrobe fit fix live so suit collars land on the chin line, added hero ad cards, and fixed the enhancer blowing out colours and shadows
+- Gave every PhotoKit tool its own SEO content and ran a full check-all sweep across all six live sites; everything passed
+- Fixed Listing Audit Tool fetch consistency with 20 identical runs in a row and verified its ASIN output field by field against the Amazon pages
+- Posted 5 more Quora answers for USA and European readers and delivered two new Daily Joys short films
