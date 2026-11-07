@@ -52,3 +52,9 @@ A public record of what I actually build and ship, one day at a time.
 ## 2026-11-06
 - Submitted 10 Indeed applications, taking the Indeed total to 61, with Sukkur still at zero fits
 - Ran the daily LinkedIn job sweep: sent 7 new Dubai HR connection invites and shortlisted a Graduate Technology Associate role at Teradata, with no fitting Easy Apply submissions
+
+## 2026-11-07
+- Submitted 10 Indeed applications in an overnight manual round, taking the Indeed total to 75, with Sukkur still at zero fits
+- Applied to 20 design roles on Behance across two runs and published the Social Media Design Services showcase live
+- Ran the daily LinkedIn job sweep: sent 6 new Dubai HR connection invites, with no fitting Easy Apply submissions
+- Built and shipped BizFlow POS live, and shipped four new seller power tools in the Listing Audit Tool (Keyword Coverage, Competitor Compare, Search Terms Analyser, One-Click Fixes)
